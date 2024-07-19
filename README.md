@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Regal New Movies Announcer automates the process of monitoring new movie releases on the Regal Movies website and announcing them to a specified Telegram channel. This script is particularly useful for movie enthusiasts and communities who want to stay updated with the latest movie releases.
+Regal New Movies Announcer automates the process of monitoring new movie releases on the Regal Movies website and announcing them to a specified Telegram channel. This script is particularly useful for movie enthusiasts and communities who want to stay updated with the latest movie releases. Read more [in my blog post](https://mokuroh.club/regal-cinemas-api-reverse-engineering/).
 
 ## Demo
 
@@ -71,7 +71,7 @@ python regal_new_movies.py --testing
 ```
 ## To-Do
 
-- **Add More Movie Sources**: Extend the script to fetch movie releases from additional websites.
+- **Upcoming Reminder**: Some showtimes are far off into the future, add an option to alert users when a movie has showtimes in the next two weeks that have been on sale for a while.
 - **Enhance Error Handling**: Improve error handling and logging.
 - **Add Custom Notification Options**: Allow users to customize notification messages.
 
@@ -101,8 +101,6 @@ Please ensure all pull requests adhere to the existing code style and include ap
 
 This project utilizes the following tools and libraries:
 
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
-- [Selenium](https://www.selenium.dev/)
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ## License
