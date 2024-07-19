@@ -22,7 +22,7 @@ Regal New Movies Announcer automates the process of monitoring new movie release
 
 [Check out the bot's channel on Telegram!](https://t.me/newregalmovies)
 
-![screenshot of the telegram bot in action](https://mokuroh.club/images/regal-bot-demo.png)
+![screenshot of the telegram bot in action](https://files.catbox.moe/hak0jz.png)
 
 ## Features
 
